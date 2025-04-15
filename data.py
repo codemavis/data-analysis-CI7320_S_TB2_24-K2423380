@@ -13,8 +13,7 @@ output_folder.mkdir(parents=True, exist_ok=True)
 DB_CONFIG = {
     "host": "localhost",
     "dbname": "CI7320_Coursework_2",
-    "user": "postgres",
-    "password": "nickky217"
+    "user": "postgres"
 }
 
 # -----------------------------
